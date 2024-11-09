@@ -1,0 +1,1 @@
+This is a practice of Git and HTML, I want to learn the things that they didn´t teac me in the school :(
